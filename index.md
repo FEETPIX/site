@@ -47,7 +47,7 @@ page_sections:
   media_alignment: Left
   slug: swap
   headline: "<strong>a sicc ass roadmap</strong>"
-  content: wow i truly cannot believe the utility we have here jesus christ
+  content: 'wow i truly cannot believe the utility we have here jesus christ '
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
