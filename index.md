@@ -23,7 +23,7 @@ page_sections:
   block: hero-2
   image:
     image: "/uploads/2021/11/08/feetgifex-1.gif"
-    alt_text: ''
+    alt_text: Demo foot gif
   color_text:
     textcolor: "#9013FE"
     headline: "<strong>10,000 random feet</strong>"
@@ -37,6 +37,8 @@ page_sections:
   textcolor: "#000000"
   maintext: "## 10,000 random feet\n\n5,000 left & 5,000 right feet to love and adore
     \ \ntake as many feetpix as you want uwu"
+  headline: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
