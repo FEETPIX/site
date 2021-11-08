@@ -20,9 +20,9 @@ fields:
   - type: text
     name: alt_text
     label: Alt Text
-- name: textcolor
+- name: headline
   type: color
-  label: textcolor
+  label: Headline
   config:
     required: false
     color_format: Hex
