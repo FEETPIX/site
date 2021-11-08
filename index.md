@@ -42,7 +42,7 @@ page_sections:
     color: "#000000"
     headline: "&lt;h1&gt;10,000 feet&lt;/h1&gt;&lt;br&gt;5,000 left &amp; 5,000 right
       randomly generated feet to love and adore &lt;br&gt;take all the pix you like
-      - uwu"
+      - uwu "
 - template: content-feature
   block: feature-1
   media_alignment: Left
