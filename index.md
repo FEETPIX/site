@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: check these<br><strong>feet</strong>
+  headline: 10k non-fungible<br><strong>feet</strong>
   content: 5000 left &amp; 5000 right feet to collect and love. Mint one and take
     all the pix you like.
   cta:
