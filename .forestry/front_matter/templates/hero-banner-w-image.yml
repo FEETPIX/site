@@ -24,12 +24,6 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: color
-    type: color
-    label: color
-    config:
-      required: false
-      color_format: Hex
   - name: headline
     type: textarea
     default: ''
