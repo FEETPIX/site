@@ -21,24 +21,19 @@ page_sections:
     button_text: coming soon
 - template: hero-banner-w-image
   block: hero-2
-  slug: features
-  headline: 10k non-fungible<br><strong>feet</strong>
-  content: "<strong>5000 left &amp; 5000 right feet</strong> to collect and love.
-    <br>Mint one and take all the pix you like."
-  cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
   image:
-    image: "/uploads/2021/11/08/feetgifex.gif"
-    alt_text: Demo foot gif
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    image: "/uploads/2021/11/08/feetgifex-1.gif"
+    alt_text: ''
   color_text:
     textcolor: "#000000"
-    headline: '10,000'
-    content: secsi ass feet
-    text: "## **10k feet**\n\n**5000 left & 5000 right feet** to collect and love.
-      \ \nMint one and take all the pix you like."
+    headline: ''
+    text: "## **10,000   \nrandom feet**\n\n**5000 left & 5000 right feet** to collect
+      and love.  \nMint one and take all the pix you like."
+  background_image: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
