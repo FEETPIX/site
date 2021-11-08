@@ -35,11 +35,15 @@ fields:
     config:
       required: false
     label: headline
-  - name: content
-    type: text
+  - name: text
+    type: textarea
+    default: ''
     config:
       required: false
-    label: content
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: text
   label: color text
 - type: field_group
   name: cta
