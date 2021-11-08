@@ -20,35 +20,21 @@ fields:
   - type: text
     name: alt_text
     label: Alt Text
-- name: color_text
-  type: field_group
-  config: {}
-  fields:
-  - name: textcolor
-    type: color
-    label: textcolor
-    config:
-      required: false
-      color_format: Hex
-  - name: headline
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: html
-    label: headline
-  - name: text
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: html
-    label: text
-  label: color text
+- name: textcolor
+  type: color
+  label: textcolor
+  config:
+    required: false
+    color_format: Hex
+- name: maintext
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: maintext
 - type: field_group
   name: cta
   label: Call-to-action
