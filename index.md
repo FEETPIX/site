@@ -26,10 +26,10 @@ page_sections:
     alt_text: ''
   color_text:
     textcolor: "#000000"
-    headline: ''
-    text: "## **10,000\n\nrandom feet**\n\n**5000 left & 5000 right feet** to collect
-      and love.  \nMint one and take all the pix you like.\n\nuwu"
-  background_image: ''
+    headline: "<strong>10,000 random feet</strong>"
+    text: 5000 left &amp; 5000 right feet to collect and love. <br>Mint one and take
+      all the pix you like - uwu
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
   cta:
     enabled: false
     url: ''
