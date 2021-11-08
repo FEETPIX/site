@@ -25,7 +25,7 @@ page_sections:
     image: "/uploads/2021/11/08/feetgifex-1.gif"
     alt_text: ''
   color_text:
-    textcolor: "#000000"
+    textcolor: "#9013FE"
     headline: "<strong>10,000 random feet</strong>"
     text: 5000 left &amp; 5000 right feet to collect and love. <br>Mint one and take
       all the pix you like - uwu
