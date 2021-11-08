@@ -20,8 +20,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: 10k non-fungible<br><strong>feet</strong>
-  content: 5000 left &amp; 5000 right feet to collect and love. <br>Mint one and take
-    all the pix you like.
+  content: "<strong>5000 left &amp; 5000 right feet</strong> to collect and love.
+    <br>Mint one and take all the pix you like."
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
