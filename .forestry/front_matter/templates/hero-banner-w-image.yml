@@ -21,13 +21,24 @@ fields:
     name: alt_text
     label: Alt Text
 - name: content
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
+  type: field_group
+  config: {}
+  fields:
+  - name: color
+    type: color
+    label: color
+    config:
+      required: false
+      color_format: Hex
+  - name: headline
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html
+    label: Headline
   label: Content
 - type: field_group
   name: cta
