@@ -10,6 +10,7 @@ fields:
 - type: file
   name: logo
   label: Logo
+  default: "/uploads/2021/11/08/pixilart-drawing.png"
 - type: field_group_list
   name: navigation
   label: Navigation
