@@ -34,7 +34,7 @@ page_sections:
     alt_text: Demo foot gif
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   color_text:
-    textcolor: ''
+    textcolor: "#000000"
     headline: '10,000'
     content: secsi ass feet
     text: ''
