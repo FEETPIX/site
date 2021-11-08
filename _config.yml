@@ -3,7 +3,7 @@ title: FEETPIX NFT
 author: ''
 email: tentickles@feetpix.biz
 description: 'FEETPIX NFT '
-baseurl: "/ubuild-jekyll"
+baseurl: "/"
 url: feetpix.biz
 defaults:
 - scope:
