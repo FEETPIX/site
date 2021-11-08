@@ -20,20 +20,27 @@ fields:
   - type: text
     name: alt_text
     label: Alt Text
-- type: textarea
-  name: headline
-  label: Headline
-  config:
-    wysiwyg: true
-    schema:
-      format: html
-- type: textarea
-  name: content
-  label: Content
-  config:
-    wysiwyg: true
-    schema:
-      format: html
+- name: color_text
+  type: field_group
+  config: {}
+  fields:
+  - name: textcolor
+    type: color
+    label: textcolor
+    config:
+      required: false
+      color_format: Hex
+  - name: headline
+    type: text
+    config:
+      required: false
+    label: headline
+  - name: content
+    type: text
+    config:
+      required: false
+    label: content
+  label: color text
 - type: field_group
   name: cta
   label: Call-to-action
