@@ -27,8 +27,8 @@ page_sections:
   color_text:
     textcolor: "#000000"
     headline: ''
-    text: "## **10,000   \nrandom feet**\n\n**5000 left & 5000 right feet** to collect
-      and love.  \nMint one and take all the pix you like."
+    text: "## **10,000\n\nrandom feet**\n\n**5000 left & 5000 right feet** to collect
+      and love.  \nMint one and take all the pix you like.\n\nuwu"
   background_image: ''
   cta:
     enabled: false
