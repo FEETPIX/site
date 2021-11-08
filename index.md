@@ -39,7 +39,7 @@ page_sections:
     \ \ntake as many feetpix as you want uwu"
   headline: ''
   content: |-
-    ## 10,000 feetpix
+    ## **10,000 feetpix**
 
     5,000 left & 5,000 right randomly generated feet to love and adore
 
