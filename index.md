@@ -6,10 +6,16 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2021/11/08/pixilart-drawing-1.png"
-  navigation: []
+  navigation:
+  - link: "#roadmap"
+    link_text: roadmap
+  - link: "#twitter"
+    link_text: twitter
+  - link: "#discord"
+    link_text: discord
   cta:
     url: ''
-    button_text: ''
+    button_text: coming soon
 - template: hero-banner-w-image
   block: hero-2
   slug: features
