@@ -38,7 +38,12 @@ page_sections:
   maintext: "## 10,000 random feet\n\n5,000 left & 5,000 right feet to love and adore
     \ \ntake as many feetpix as you want uwu"
   headline: ''
-  content: ''
+  content: |-
+    ## 10,000 feetpix
+
+    5,000 left & 5,000 right randomly generated feet to love and adore
+
+    take all the pix you like uwu
 - template: content-feature
   block: feature-1
   media_alignment: Left
