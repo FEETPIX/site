@@ -38,10 +38,8 @@ page_sections:
   maintext: "## 10,000 random feet\n\n5,000 left & 5,000 right feet to love and adore
     \ \ntake as many feetpix as you want uwu"
   headline: ''
-  content: <span class="tagnamecolor">&lt;span style="color:black;font-weight:bold;font-size:32px"&gt;</span>10,000
-    feet<span class="tagnamecolor">&lt;/span&gt;&lt;br&gt;</span>5,000 left &amp;
-    5,000 right randomly generated feet to love and adore &lt;br&gt;take all the pix
-    you like uwu
+  content: "<h2><strong>10,000 feet</strong></h2><h3>5,000 left &amp; 5,000 right
+    randomly generated feet to love and adore</h3><h3>take all the pix you like uwu</h3>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
