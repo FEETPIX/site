@@ -37,7 +37,8 @@ page_sections:
     textcolor: "#000000"
     headline: '10,000'
     content: secsi ass feet
-    text: raadasdsad
+    text: "## **10k feet**\n\n**5000 left & 5000 right feet** to collect and love.
+      \ \nMint one and take all the pix you like."
 - template: content-feature
   block: feature-1
   media_alignment: Left
