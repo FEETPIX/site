@@ -37,7 +37,7 @@ page_sections:
     textcolor: "#000000"
     headline: '10,000'
     content: secsi ass feet
-    text: ''
+    text: raadasdsad
 - template: content-feature
   block: feature-1
   media_alignment: Left
