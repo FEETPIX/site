@@ -9,10 +9,13 @@ page_sections:
   navigation:
   - link: "#roadmap"
     link_text: roadmap
+    textcolor: ''
   - link: "#twitter"
     link_text: twitter
+    textcolor: ''
   - link: "#discord"
     link_text: discord
+    textcolor: ''
   cta:
     url: ''
     button_text: coming soon
@@ -30,6 +33,11 @@ page_sections:
     image: "/uploads/2021/11/08/feetgifex.gif"
     alt_text: Demo foot gif
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  color_text:
+    textcolor: ''
+    headline: '10,000'
+    content: secsi ass feet
+    text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
