@@ -7,14 +7,14 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/11/08/pixilart-drawing.png"
   navigation:
-  - link: "/"
-    link_text: Ubuild
+  - link: "#roadmap"
+    link_text: roadmap
   - link: "#swap"
-    link_text: Swap
+    link_text: discord
   - link: "#customize"
-    link_text: Customize
+    link_text: twitter
   - link: "#responsive"
-    link_text: Responsive
+    link_text: opensea
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
