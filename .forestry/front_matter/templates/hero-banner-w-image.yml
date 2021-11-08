@@ -20,12 +20,6 @@ fields:
   - type: text
     name: alt_text
     label: Alt Text
-- name: headline
-  type: color
-  label: Headline
-  config:
-    required: false
-    color_format: Hex
 - name: content
   type: textarea
   default: ''
