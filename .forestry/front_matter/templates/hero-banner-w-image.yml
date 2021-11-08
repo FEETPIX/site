@@ -30,11 +30,6 @@ fields:
     config:
       required: false
       color_format: Hex
-  - name: headline
-    type: text
-    config:
-      required: false
-    label: headline
   - name: text
     type: textarea
     default: ''
